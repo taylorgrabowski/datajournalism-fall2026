@@ -22,7 +22,9 @@ Data Accuracy: The data appears highly accurate and sourced. The reporters manua
   # Quality, Type, Color, and Creativity 
 
   Overall Quality (5) - The execution is great, it seamlessly transitions between the macro (statewide budget cuts, lawsuits) and the micro (Annie Reed's daily life, home invasion).
+  
   Type and Color (4) - The typography is stark and easily readable, drawing the eye to crucial points. I think the numbers and stats should be bolded or italicized to make it more distinguishable. 
+  
   Creativity (5) - The piece uses jarring anecdotal details, like villagers duct-taping an active shooter, or using "blue tickets" for banishment, to illustrate the human cost of the missing resources. 
 
 # Story Pitch: D.C. 
