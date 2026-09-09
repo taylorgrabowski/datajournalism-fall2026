@@ -5,12 +5,19 @@ Article: [Lawless: One in three Alaska villages have no local police]([url](http
 # Clarity and Accuracy 
 
 Central Insight (5/5): The central insight was immediately identifiable, one-third of Alaska's communities lack any local law enforcement, leaving vulnerable populations completely unprotected.
+
 Headline: Yes, the insight was stated in the headline ("One in three Alaska villages have no local police").
+
 Data Visualization(2/5): There are images throughout the article highlighting Anchorage and people that live there. There is one chart that shows the number of cities (map of Alaska) with no local law enforcement. In addition, there is a link to another article about how they tallied the areas with no local law enforcement.
+
 Data Accuracy: The data appears highly accurate and sourced. The reporters manually found their data and asked more than 560 traditional councils, tribal corporations, and city governments about their officers.
+
   *Areas of question:* None based on methodology, though tracking exact real-time turnover of Village Public Safety Officers is likely difficult.
+  
   *Sources to check:* Alaska Department of Public Safety, Alaska Police Standards Council
+  
   *Explanations:* Yes, the reporters clearly explained the tiered system of Alaska law enforcement (State troopers vs. VSPOs vs. Village/Tribal police)
+  
 
   # Quality, Type, Color, and Creativity 
 
