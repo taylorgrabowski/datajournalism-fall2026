@@ -30,4 +30,4 @@ The new `Genre` column was researched using each song's Wikipedia entry (which l
 - **Country dominance:** 6 of the 10 songs currently in the top 10 are classified as country or country-pop, including three from Ella Langley alone and two featuring Morgan Wallen — a useful, concrete finding for the reporting question above.
 
 ## 6. AI disclosure
-I used Claude (Anthropic) to help identify the current Billboard Hot 100 top-10 songs (via web search, since the chart updates weekly and is beyond any static knowledge base), and to research and verify each song's genre classification from Wikipedia and news sources. 
+I used Claude (Anthropic) to help identify the current Billboard Hot 100 top-10 songs (via web search, since the chart updates weekly), and to research and verify each song's genre classification from Wikipedia and news sources. 
