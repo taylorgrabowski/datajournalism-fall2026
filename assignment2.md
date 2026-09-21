@@ -21,8 +21,6 @@ Genre is newsworthy here because the Hot 100 is marketed as an "all-genre" chart
 ## 4. Expanded dataset
 **[assignment2_hot100_genres.xlsx](computer:///mnt/user-data/outputs/assignment2_hot100_genres.xlsx)**
 
-*(Upload this file to Google Sheets or GitHub and swap in that link before submitting — see note below.)*
-
 The new `Genre` column was researched using each song's Wikipedia entry (which lists genre tags sourced from label/press materials) or, where no dedicated song article existed, the artist's general genre classification. Every row includes a `Source` link and a `Notes` field documenting any judgment calls.
 
 ## 5. Judgment calls and unusual records
