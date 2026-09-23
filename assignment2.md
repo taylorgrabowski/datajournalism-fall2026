@@ -19,7 +19,7 @@ The Hot 100 is Billboard's flagship singles chart, published weekly since 1958. 
 Genre is newsworthy here because the Hot 100 is marketed as an "all-genre" chart, but the industry and audiences often want to know whether that's true in practice — whether one genre (in this case, country) is disproportionately capturing mainstream attention, and whether hit-making has become more genre-blended (e.g., country-pop crossovers, K-pop/psych-rock mashups) rather than sorted into clean genre boxes.
 
 ## 4. Expanded dataset
-**[assignment2_hot100_genres.xlsx](computer:///mnt/user-data/outputs/assignment2_hot100_genres.xlsx)**
+**[assignment2_hot100_genres.xlsx](https://american0-my.sharepoint.com/:x:/g/personal/tg0408a_american_edu/IQASdDdmF9rlTqxp1wf_xRKBAYBjpqq1ubOtuHcccxDnLHE?e=IOpDQA&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)**
 
 The new `Genre` column was researched using each song's Wikipedia entry (which lists genre tags sourced from label/press materials) or, where no dedicated song article existed, the artist's general genre classification. Every row includes a `Source` link and a `Notes` field documenting any judgment calls.
 
