@@ -40,5 +40,8 @@ Most thefts are reported on the day and evening shifts:
 
 In each of the top three block groups, evening has more reports than day. 
 
+## Final Project
+[Link for group project](https://github.com/mg3428a/datajournalism-fall2026/blob/main/assignment3.md)
+
 ## AI Disclosure 
 I did not use AI to assist me with this assignment.
