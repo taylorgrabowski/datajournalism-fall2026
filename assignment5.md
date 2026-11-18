@@ -26,9 +26,9 @@ Most of the sources agreed with the findings. The residents and officials show w
 
 
 ## Story Structure
-Inverted pyramid: This is the main structure, with the most important findings first (the 800,000 offers, nine out of 10 cities, two-thirds and the 22 redlined cities), then the company responses and FCC action, and the redlining history near the bottom where a reader who stopped early would lose the least.
-Vignettes: The story keeps returning to short scenes with real people and places, including Neville in New Orleans, the children in Las Vegas, the two Kansas City households, and the Hope Village residents in Detroit.
-Circle/bookend: The ending is close to a bookend but not exactly, since it finishes with Detroit residents who didn't know they were paying the same price for worse service, which echoes the opening idea but doesn't go back to Neville.
+- Inverted pyramid: This is the main structure, with the most important findings first (the 800,000 offers, nine out of 10 cities, two-thirds and the 22 redlined cities), then the company responses and FCC action, and the redlining history near the bottom where a reader who stopped early would lose the least.
+- Vignettes: The story keeps returning to short scenes with real people and places, including Neville in New Orleans, the children in Las Vegas, the two Kansas City households, and the Hope Village residents in Detroit.
+- Circle/bookend: The ending is close to a bookend but not exactly, since it finishes with Detroit residents who didn't know they were paying the same price for worse service, which echoes the opening idea but doesn't go back to Neville.
 The structure comes from the order of the information and the charts.
 
 
